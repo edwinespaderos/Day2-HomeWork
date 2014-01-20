@@ -476,6 +476,18 @@ body * {
 	width: 306px;
 }
 
+.social-1 {
+	display: inline-block;
+	margin: 20px;
+	padding-left: 4px;
+}
+
+.social-1 span {
+	line-height: 29px;
+	font-size: 10px;
+	color: blue;
+}
+
 .image1-block {
 	position: relative;
 	display: inline-block;
